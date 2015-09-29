@@ -1,0 +1,6 @@
+mysql -u root -p M3_CIQUAL < Tables.sql
+mysql -u root -p M3_CIQUAL < Genres.sql
+mysql -u root -p M3_CIQUAL < Aliments.sql
+mysql -u root -p M3_CIQUAL < Sources.sql 
+mysql -u root -p M3_CIQUAL < Constituants.sql
+mysql -u root -p M3_CIQUAL < CompNutri.sql
